@@ -10,7 +10,7 @@
   Now let's get serious. </br>
   **Ques4-** Suppose i made an empty folder in my local repository. Can i add and commit this change? Answer with a Y/N. </br>
   
-- You should have 4 commits in your branch now. Push these changes to the `task3` branch and then make a PR.
+- You should have 4 commits in your branch now. Push these changes to the `task3` branch and then make a PR. Be sure that you mention the `Issue No.` in the PR.
 
 ### Step-2
 - You know what, I've changed my mind.
@@ -25,3 +25,7 @@
 - You know what, I've changed my mind again ;). Change the commit message of the last commit present in your branch to `Commit Message changed successfully`
 - Finally, get back the changes you had stored away and commit them with the message `Task 3 Completed`.
 - Push all of these changes, and your task will end. 
+
+<hr>
+
+Checkout to branch `task4` for the next task!
